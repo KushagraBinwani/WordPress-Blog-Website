@@ -28,7 +28,7 @@ JavaScript (Vanilla) – Interactive features like toggles, menus, and basic DOM
 # 🚀 Demo
 You can view the live demo here:
 
-[Your Demo Link Here]
+https://kushagrabinwani.github.io/WordPress-Blog-Website/
 
 
 # 🎯 Learning Outcomes
